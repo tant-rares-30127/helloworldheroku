@@ -1,0 +1,19 @@
+{
+  "name": "node-js-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tant-rares-30127/helloworldheroku.git"
+  },
+  "author": "Rares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tant-rares-30127/helloworldheroku/issues"
+  },
+  "homepage": "https://github.com/tant-rares-30127/helloworldheroku#readme"
+}
